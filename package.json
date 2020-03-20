@@ -1,20 +1,27 @@
-  {
-    "name": "arcgis-js-types",
-    "description": "",
-    "version": "1.0.0",
-    "main": "arcgis-js-api.d.ts",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
+{
+    "name": "@types/bishrant-arcgis-js-api",
+    "version": "4.14.0",
+    "description": "TypeScript definitions for ArcGIS API for JavaScript",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "bishrant",
+            "url": "https://github.com/Esri",
+            "githubUsername": "Esri"
+        },
+        {
+            "name": "Bjorn Svensson",
+            "url": "https://github.com/bsvensson",
+            "githubUsername": "bsvensson"
+        }
+    ],
+    "main": "",
+    "types": "index.d.ts",
     "repository": {
-      "type": "git",
-      "url": "https://github.com/bishrant/arcgis-js-types.git"
+        "type": "git",
+        "url": "https://github.com/bishrant/arcgis-js-types.git",
     },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/bishrant/arcgis-js-types/issues"
-    },
-    "homepage": "https://github.com/bishrant/arcgis-js-types"
-  }
+    "scripts": {},
+    "dependencies": {},
+    "typeScriptVersion": "2.7"
+}
