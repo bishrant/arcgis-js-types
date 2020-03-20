@@ -1,6 +1,6 @@
 {
     "name": "bishrant-arcgis-js-api",
-    "version": "4.14.0",
+    "version": "4.14.1",
     "description": "TypeScript definitions for ArcGIS API for JavaScript",
     "license": "MIT",
     "contributors": [
