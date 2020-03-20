@@ -16,7 +16,7 @@
         }
     ],
     "main": "",
-    "types": "index.d.ts",
+    "types": "arcgis-js-api.d.ts",
     "repository": {
         "type": "git",
         "url": "https://github.com/bishrant/arcgis-js-types.git",
