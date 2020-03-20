@@ -1,0 +1,20 @@
+  {
+    "name": "arcgis-js-types",
+    "description": "",
+    "version": "1.0.0",
+    "main": "arcgis-js-api.d.ts",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/bishrant/arcgis-js-types.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/bishrant/arcgis-js-types/issues"
+    },
+    "homepage": "https://github.com/bishrant/arcgis-js-types"
+  }
