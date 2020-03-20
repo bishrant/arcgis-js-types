@@ -6,13 +6,7 @@
     "contributors": [
         {
             "name": "bishrant",
-            "url": "https://github.com/Esri",
-            "githubUsername": "Esri"
-        },
-        {
-            "name": "Bjorn Svensson",
-            "url": "https://github.com/bsvensson",
-            "githubUsername": "bsvensson"
+          
         }
     ],
     "main": "",
